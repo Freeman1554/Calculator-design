@@ -16,7 +16,3 @@ function divide(){
 
 module.exports = {Add, subtract, multiply, divide}
 
-// console.log(Add())
-// console.log(subtract())
-// console.log(multiply())
-// console.log(divide())
